@@ -12,5 +12,5 @@ The python script is in an infinite loop, always listening to connections on por
 
 # Finished goods
 
-While the python script can be downloaded from here, the ready-to-fly android app can be downloaded from the app store. 
+While the python script can be downloaded from here, the ready-to-fly android app can be downloaded from the [app store](https://play.google.com/store/apps/details?id=me.krishnasudhakar.projects.finger). 
 
